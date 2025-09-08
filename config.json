@@ -12,16 +12,16 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "obito-bot",
-  "prefix": "/",
+  "nickNameBot": "Jaan",
+  "prefix": ".",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
   "adminBot": [
-    "100078794143432",
-    "100001986888287",
-    "100000180724818"
+    "61554279505483",
+    "61580068018277",
+    ""
   ],
   "developers": [
     "100078794143432",
